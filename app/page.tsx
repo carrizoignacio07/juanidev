@@ -1,7 +1,9 @@
 export default function HomePage() {
   return (
     <>
-      <h1>Home Page</h1>
+      <h1 className="m-5 text-center text-3xl font-bold">
+        Welcome to the Home Page
+      </h1>
     </>
   );
 }
